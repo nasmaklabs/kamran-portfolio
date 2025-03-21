@@ -35,7 +35,7 @@ export const projects: Project[] = [
     outcome:
       "Enabled real-time geospatial analysis, improved decision-making for businesses, and enhanced data accessibility through interactive visualizations.",
     technologies: ["React", "Node.js", "PostgreSQL", "Mapbox", "D3.js", "AWS"],
-    image: "/public/images/geo-viz.png?auto=format&fit=crop&w=800&q=80",
+    image: "/images/geo-viz.png?auto=format&fit=crop&w=800&q=80",
   },
   {
     title: "Jazzba: Digital Supply Network & B2B eCommerce Platform",
@@ -54,7 +54,7 @@ export const projects: Project[] = [
       "Redis",
       "AWS",
     ],
-    image: "/public/images/jazzba.png?auto=format&fit=crop&w=800&q=80",
+    image: "/images/jazzba.png?auto=format&fit=crop&w=800&q=80",
   },
   {
     title: "LocalReviews: Multi-Platform Review Aggregation & Management",
@@ -74,7 +74,7 @@ export const projects: Project[] = [
       "Yelp API",
       "AWS",
     ],
-    image: "/public/images/local-reviews.png?auto=format&fit=crop&w=800&q=80",
+    image: "/images/local-reviews.png?auto=format&fit=crop&w=800&q=80",
   },
   {
     title: "Private Blockchain Solutions for Dubai Government",
@@ -92,7 +92,7 @@ export const projects: Project[] = [
       "Express.js",
       "React",
     ],
-    image: "/public/images/fabric.png?auto=format&fit=crop&w=800&q=80",
+    image: "/images/fabric.png?auto=format&fit=crop&w=800&q=80",
   },
   {
     title: "Work Order Management System",
@@ -104,7 +104,7 @@ export const projects: Project[] = [
     outcome:
       "Increased operational efficiency by 40% by automating task assignments and real-time tracking. Improved work order completion rates with seamless team collaboration.",
     technologies: ["React.js", "Node.js", "GraphQL", "PostgreSQL", "Docker"],
-    image: "/public/images/cmms.webp?auto=format&fit=crop&w=800&q=80",
+    image: "/images/cmms.webp?auto=format&fit=crop&w=800&q=80",
   },
 ];
 

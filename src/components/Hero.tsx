@@ -1,4 +1,4 @@
-import { Download, Mail, ArrowDown } from "lucide-react";
+import { Download, Mail } from "lucide-react";
 import { motion } from "framer-motion";
 
 export default function Hero() {
@@ -95,7 +95,7 @@ export default function Hero() {
                 </motion.button>
 
                 <motion.a
-                  href="/public/pdf/m-kamran-profile.pdf"
+                  href="/pdf/m-kamran-profile.pdf"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="group inline-flex items-center px-8 py-4 text-lg font-medium rounded-full bg-white/10 text-white backdrop-blur-sm hover:bg-white/20 transition-all duration-300"
@@ -122,7 +122,7 @@ export default function Hero() {
                   whileHover={{ scale: 1.02 }}
                 >
                   <img
-                    src="/public/images/kamran.jpg"
+                    src="/images/kamran.jpg"
                     alt="Muhammad Kamran Haider"
                     className="w-full h-full object-cover"
                   />
