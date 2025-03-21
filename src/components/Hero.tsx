@@ -122,7 +122,7 @@ export default function Hero() {
                   whileHover={{ scale: 1.02 }}
                 >
                   <img
-                    src="/images/kamran.jpg"
+                    src="/images/kamran-haider.jpg"
                     alt="Muhammad Kamran Haider"
                     className="w-full h-full object-cover"
                   />
