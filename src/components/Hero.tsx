@@ -98,7 +98,7 @@ export default function Hero() {
                   href="/pdf/m-kamran-profile.pdf"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="group inline-flex items-center px-8 py-4 text-lg font-medium rounded-full bg-white/10 text-white backdrop-blur-sm hover:bg-white/20 transition-all duration-300"
+                  className="group inline-flex items-center px-8 py-4 text-lg font-medium rounded-full bg-[#ffffff1a] text-white backdrop-blur-sm hover:bg-white/20 transition-all duration-300"
                   whileHover={{ scale: 1.05 }}
                   whileTap={{ scale: 0.95 }}
                 >
